@@ -8,8 +8,7 @@ This Weather App is a simple web application that allows users to check the curr
 - **Current Weather**: Display the current weather information including location, temperature, weather description, humidity, UV index, strong wind, air pressure, visibility, and wind energy.
 - **Last Four Days Forecast**: Show the forecast for the next four days with weather description and temperature at 12:00 PM.
 
-## Preview
-![Weather App Preview](https://cdn-icons-png.flaticon.com/512/1850/1850730.png)
+
 
 ## How to Use
 
